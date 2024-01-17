@@ -1,2 +1,2 @@
-# Discord-Bots
-Discord Bots Made By - Karan Jaswani
+# Discord-Bot
+Discord Bot Made By - Karan Jaswani
