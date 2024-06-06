@@ -27,7 +27,7 @@ Jodd is a versatile Discord bot built using Python and the discord.py library. I
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Macret16/jodd-discord-bot.git
+    git clone https://github.com/Macret16/Discord-Bot.git
     cd jodd-discord-bot
     ```
 
